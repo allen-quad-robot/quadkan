@@ -11,7 +11,7 @@ The code and data processing scripts of this work are coming soon after this wor
   **Click to view the video:**
 
   <a href="https://youtu.be/vQNcyge1tZs" target="_blank">
-  <img src="https://i9.ytimg.com/vi_webp/vQNcyge1tZs/maxresdefault.webp?v=68b10df5&sqp=CKSaxMUG&rs=AOn4CLCLobCQAUC7NPVBIl0geJeW2jz-pg" 
+  <img src="https://i9.ytimg.com/vi_webp/vQNcyge1tZs/maxresdefault.webp?v=68b10df5&sqp=CJDPyMUG&rs=AOn4CLBatS6tg7zcQO8lZA-ivSIBrHNixQ" 
        alt="Watch the video"
        width="400"/>
   </a>
