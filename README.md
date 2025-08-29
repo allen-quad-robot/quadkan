@@ -10,8 +10,8 @@ The code and data processing scripts of this work are coming soon after this wor
 
   **Click to view the video:**
 
-  <a href="https://youtu.be/2BDR-U_Y_Fc" target="_blank">
-  <img src="https://i9.ytimg.com/vi_webp/2BDR-U_Y_Fc/maxresdefault.webp?v=68ae9717&sqp=CKTuwcUG&rs=AOn4CLC0qlCmKZO6T-KhosV-c4hdaXAcTA" 
+  <a href="https://youtu.be/vQNcyge1tZs" target="_blank">
+  <img src="https://i9.ytimg.com/vi_webp/vQNcyge1tZs/maxresdefault.webp?v=68b10df5&sqp=CKSaxMUG&rs=AOn4CLCLobCQAUC7NPVBIl0geJeW2jz-pg" 
        alt="Watch the video"
        width="400"/>
   </a>
